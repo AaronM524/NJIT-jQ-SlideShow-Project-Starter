@@ -1,6 +1,6 @@
 let mCurrentIndex = 0 // Tracks the current image index
 let mImages = [] // Array to hold GalleryImage objects
-const mUrl = 'https://api.npoint.io/b4b45452c9c3fbeb9af4' // Replace with actual JSON URL
+const mUrl = 'https://api.npoint.io/689d577e91bf27489a4d' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
