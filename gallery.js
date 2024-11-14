@@ -11,7 +11,10 @@ $(document).ready(() => {
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
+  $('.moreIndicator').on('click', () => {
+    $('.details').slideToggle();
 
+  })
   // Select the "Next Photo" button and add a click event to call showNextPhoto
 
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
@@ -37,10 +40,15 @@ function fetchJSON () {
 }
 
 // Function to swap and display the next photo in the slideshow
-function swapPhoto () {
-  // Access mImages[mCurrentIndex] to update the image source and details
-  // Update the #photo element's src attribute with the current image's path
-  // Update the .location, .description, and .date elements with the current image's details
+function swapPhoto() {
+
+  const image = mImages[mCurrentIndex];
+  console.log(image.imgPath);
+  $('#photo').attr('src', image.imgPath);
+  $('.location').text(`Location: ${image.imgLocation}`);
+  $('.description').text(`Description: ${image.description}`);
+  $('.date').text(`Date: ${image.date}`);
+
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
