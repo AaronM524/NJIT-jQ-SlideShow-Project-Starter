@@ -3,61 +3,61 @@
         {
             "imgPath": "img/places/gardenofthegods.jpg",
             "imgLocation": "Colorado Springs, Colorado",
-            "description": "is a beautiful park in Colorado Springs known for its stunning red rock formations, scenic trails, and views of the Rocky Mountains.",
+            "description": "The Garden of the Gods is a beautiful park in Colorado Springs known for its stunning red rock formations, scenic trails, and views of the Rocky Mountains.",
             "date": "01/01/2016"
         },
         {
             "imgPath": "img/places/grandcanyon.jpg",
             "imgLocation": "Arizona",
-            "description": "is a massive canyon in Arizona, famous for its breathtaking size, colorful layered rock formations, and views of the Colorado River running through it.",
+            "description": "The Grand Canyon is a massive canyon in Arizona, famous for its breathtaking size, colorful layered rock formations, and views of the Colorado River running through it.",
             "date": "01/02/2016"
         },
         {
             "imgPath": "img/places/jaspernationalpark.jpg",
             "imgLocation": "Jasper, Canada",
-            "description": "is a vast, scenic park in the Canadian Rockies, known for its stunning mountains, crystal-clear lakes, wildlife, and beautiful hiking trails.",
+            "description": "Jasper National Park is a vast, scenic park in the Canadian Rockies, known for its stunning mountains, crystal-clear lakes, wildlife, and beautiful hiking trails.",
             "date": "01/03/2016"
         },
         {
             "imgPath": "img/places/kenaifjordsalaska.jpg",
             "imgLocation": "Sweard, Alaska",
-            "description": "is known for its dramatic glaciers, stunning coastal landscapes, and rich wildlife, including seals, whales, and sea otters.",
+            "description": " Kenai Fjords is known for its dramatic glaciers, stunning coastal landscapes, and rich wildlife, including seals, whales, and sea otters.",
             "date": "01/04/2016"
         },
         {
             "imgPath": "img/places/laketahoe.jpg",
             "imgLocation": "Nevada and California",
-            "description": "is a large, clear freshwater lake on the border of California and Nevada, surrounded by mountains and known for its beautiful scenery, outdoor activities, and ski resorts.",
+            "description": "Lake Tahoe is a large, clear freshwater lake on the border of California and Nevada, surrounded by mountains and known for its beautiful scenery, outdoor activities, and ski resorts.",
             "date": "01/05/2016"
         },
         {
             "imgPath": "img/places/morainelake.jpg",
             "imgLocation": "Alberta, Canada",
-            "description": "is a stunning turquoise lake in Banff National Park, Canada, surrounded by towering mountains and lush forests, making it a popular spot for hiking and photography.",
+            "description": "Moraine Lake is a stunning turquoise lake in Banff National Park, Canada, surrounded by towering mountains and lush forests, making it a popular spot for hiking and photography.",
             "date": "01/06/2016"
         },
         {
             "imgPath": "img/places/niagarafalls.jpg",
             "imgLocation": "New York State",
-            "description": "is a famous waterfall on the border of the U.S. and Canada, known for its massive, powerful flow of water and breathtaking views from both sides of the falls.",
+            "description": "Niagara Falls is a famous waterfall on the border of the U.S. and Canada, known for its massive, powerful flow of water and breathtaking views from both sides of the falls.",
             "date": "01/07/2016"
         },
         {
             "imgPath": "img/places/stlouis.jpg",
             "imgLocation": "Missouri",
-            "description": "is a historic Catholic church in New Orleans, known for its beautiful architecture, tall spires, and its location in Jackson Square near the French Quarter.",
+            "description": "St. Louis is a historic Catholic church in New Orleans, known for its beautiful architecture, tall spires, and its location in Jackson Square near the French Quarter.",
             "date": "01/08/2016"
         },
         {
             "imgPath": "img/places/whitesandsmonument.jpg",
             "imgLocation": "New Mexico",
-            "description": "is known for its vast, stunning white gypsum sand dunes, offering a unique landscape and outdoor activities like hiking and sledding.",
+            "description": "The White Sands Monument is known for its vast, stunning white gypsum sand dunes, offering a unique landscape and outdoor activities like hiking and sledding.",
             "date": "01/09/2016"
         },
         {
             "imgPath": "img/places/yosemitenationalpark.jpg",
             "imgLocation": "California ",
-            "description": "is famous for its towering granite cliffs, waterfalls, giant sequoia trees, and stunning natural beauty, making it a popular destination for hiking and sightseeing.",
+            "description": "The Yosemite National Park is famous for its towering granite cliffs, waterfalls, giant sequoia trees, and stunning natural beauty, making it a popular destination for hiking and sightseeing.",
             "date": "01/10/2016"
         }
   ]
