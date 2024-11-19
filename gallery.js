@@ -8,7 +8,6 @@ $(document).ready(() => {
 
   // Call a function here to start the timer for the slideshow
   startTimer();
-  startTimer();
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
@@ -68,7 +67,6 @@ function showPrevPhoto () {
   }
   
   swapPhoto();
-  mCurrentIndex--;
 }
 
 // Starter code for the timer function
