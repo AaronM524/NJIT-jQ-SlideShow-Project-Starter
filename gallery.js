@@ -1,7 +1,6 @@
 let mCurrentIndex = 0 // Tracks the current image index
 let mImages = [] // Array to hold GalleryImage objects
 const mUrl = 'https://api.npoint.io/52f25d0de2b5e6a9a5ee' // Replace with actual JSON URL
-const mUrl = 'https://api.npoint.io/52f25d0de2b5e6a9a5ee' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
@@ -19,9 +18,7 @@ $(document).ready(() => {
   })
   // Select the "Next Photo" button and add a click event to call showNextPhoto
   $('#nextPhoto').on('click', showNextPhoto);
-  $('#nextPhoto').on('click', showNextPhoto);
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
-  $('#prevPhoto').on('click', showPrevPhoto);
   $('#prevPhoto').on('click', showPrevPhoto);
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
@@ -86,6 +83,5 @@ function showPrevPhoto () {
 
 // Starter code for the timer function
 function startTimer () {
-  setInterval(showNextPhoto, mWaitTime);
   setInterval(showNextPhoto, mWaitTime);
 }
