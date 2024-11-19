@@ -59,11 +59,6 @@ function showNextPhoto () {
     mCurrentIndex = 0;
   }
   swapPhoto()
-  mCurrentIndex++;
-  if (mCurrentIndex == mImages.length) {
-    mCurrentIndex = 0;
-  }
-  swapPhoto()
 }
 // Goes to the previous photo, loops to the last photo if mCurrentIndex goes negative
 function showPrevPhoto () {
@@ -74,11 +69,6 @@ function showPrevPhoto () {
   
   swapPhoto();
   mCurrentIndex--;
-  if (mCurrentIndex < 0) {
-    mCurrentIndex = mImages.length - 1; 
-  }
-  
-  swapPhoto();
 }
 
 // Starter code for the timer function
